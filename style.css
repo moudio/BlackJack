@@ -16,9 +16,11 @@
 .flex-blackjack-row-2 {
   justify-content: space-around;
   background: url('./static/images/background.jpg') center;
+  background-size: cover;
 }
 .flex-blackjack-row-1 {
   background: url('./static/images/background.jpg') center;
+  background-size: cover;
   color: #fff;
 }
 .flex-blackjack-row-1 div {
