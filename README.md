@@ -1,12 +1,12 @@
 # BlackJack
+![screenshot](./screenshot.png)
+## Description:
+This is a light blackjack app made with 13 cards. The user plays with a computer to know which one can hit the maximum target (below 22). If one of the player hits more than 21, he loses or it's a draw.
 
-## Description: 
-This is a light blackjack app made with 13 cards. The user plays with a computer to know which one can hit the maximum target (below 22). If one of the player hits more than 21, he loses or it's a draw. 
-
-## Technologies: 
+## Technologies:
 
 - HTML
-- CSS 
+- CSS
 - Javascript
 
 ## Developed by
@@ -21,5 +21,5 @@ Mouhamadou Diouf ( <a href="https://github.com/MouhaDiouf"> @mouhad </a>)
 4. Push to the branch (git push origin feature/[chosen name])
 5. Create a new Pull Request
 
-## Live version: 
+## Live version:
 <a href="https://mouhadiouf.github.io/BlackJack/" target="_blank">Blackjack Game</a>
